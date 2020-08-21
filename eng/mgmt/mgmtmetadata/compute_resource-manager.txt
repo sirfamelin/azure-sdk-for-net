@@ -3,12 +3,12 @@ AutoRest installed successfully.
 Commencing code generation
 Generating CSharp code
 Executing AutoRest command
-cmd.exe /c autorest.cmd https://github.com/Azure/azure-rest-api-specs/blob/master/specification/compute/resource-manager/readme.md --csharp --version=v2 --reflect-api-versions --csharp-sdks-folder=E:\workdir\github\azure-sdk-for-net\sdk
-2020-07-14 19:06:24 UTC
+cmd.exe /c autorest.cmd https://github.com/sirfamelin/azure-rest-api-specs/blob/dev/sirlin/uefi/specification/compute/resource-manager/readme.md --csharp --version=v2 --reflect-api-versions --csharp.output-folder=C:\Users\sirlin\Desktop\uefiwithVMSS
+2020-08-21 17:29:23 UTC
 Azure-rest-api-specs repository information
-GitHub fork: Azure
-Branch:      master
-Commit:      00ac1cbffba123ba5e30cb324935100495d0700d
+GitHub fork: sirfamelin
+Branch:      dev/sirlin/uefi
+Commit:      09199a6a9e2e2b5b69f3e70b64ec883120d9e2ce
 AutoRest information
 Requested version: v2
 Bootstrapper version:    autorest@2.0.4413
